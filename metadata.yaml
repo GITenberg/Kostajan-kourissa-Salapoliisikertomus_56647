@@ -1,10 +1,13 @@
 _repo: Kostajan-kourissa-Salapoliisikertomus_56647
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Korsberg, V. ja H.
     gutenberg_agent_id: '48968'
     url: http://www.gutenberg.org/2009/agents/48968
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Elvestad, Sven
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48941
     wikipedia: https://en.wikipedia.org/wiki/Sven_Elvestad
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56647#Kostajan-kourissa-Salapoliisikertomus
 gutenberg_issued: '2018-02-26'
 gutenberg_type: Text
 identifiers:
